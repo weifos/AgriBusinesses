@@ -37,7 +37,6 @@
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Admin\bin\Debug\netcoreapp2.1\Solution.Admin.pdb
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Admin\bin\Debug\netcoreapp2.1\Solution.Admin.Views.dll
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Admin\bin\Debug\netcoreapp2.1\Solution.Admin.Views.pdb
-\\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Admin\obj\Debug\netcoreapp2.1\Solution.Admin.csprojAssemblyReference.cache
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Admin\obj\Debug\netcoreapp2.1\Solution.Admin.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Admin\obj\Debug\netcoreapp2.1\Solution.Admin.RazorAssemblyInfo.cache
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Admin\obj\Debug\netcoreapp2.1\Solution.Admin.RazorAssemblyInfo.cs

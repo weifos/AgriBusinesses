@@ -9,10 +9,24 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Aliyun.OSS.SDK.NetCore" Version="2.9.1" />
+    <PackageReference Include="FluentFTP" Version="25.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="System.Drawing.Common" Version="4.5.1" />
     <PackageReference Include="Unity" Version="5.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Solution.Service\Solution.Service.csproj" />
+    <ProjectReference Include="..\Solution.Entity\Solution.Entity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WeiFos.Core">
+      <HintPath>..\..\package\WeiFos.Core.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
