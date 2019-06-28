@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Unity" Version="5.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Solution.Entity\Solution.Entity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WeiFos.Core">
+      <HintPath>..\package\WeiFos.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="WeiFos.ORM">
+      <HintPath>..\package\WeiFos.ORM.dll</HintPath>
+    </Reference>
+    <Reference Include="WeiFos.SDK">
+      <HintPath>..\package\WeiFos.SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="WeiFos.WeChat">
+      <HintPath>..\package\WeiFos.WeChat.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
