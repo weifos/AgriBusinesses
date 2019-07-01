@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WeiFos.ORM.Data;
 using Solution.Entity.WeChatModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.WeChatModule
 {

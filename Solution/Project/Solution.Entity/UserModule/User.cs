@@ -1,4 +1,5 @@
 ﻿using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;

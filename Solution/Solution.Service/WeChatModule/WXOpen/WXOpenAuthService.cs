@@ -13,7 +13,7 @@ using WeiFos.WeChat.TickeModule;
 using WeiFos.WeChat.WXBase;
 using WeiFos.WeChat.WXBase.WXOpen;
 using Solution.Service;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.WeChatModule.WXOpen
 {

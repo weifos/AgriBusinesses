@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Solution.Entity.UserModule;
-using Solution.Service.Common;
+using Solution.Service;
 using WeiFos.ORM.Data;
 
 namespace Solution.Service.UserModule

@@ -1,5 +1,5 @@
 ﻿using WeiFos.ORM.Data;
-using Solution.Service.Common;
+using Solution.Service;
 using System.Collections.Generic;
 using Solution.Entity.BizTypeModule;
 

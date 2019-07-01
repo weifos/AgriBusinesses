@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WeiFos.ORM.Data;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.OrderModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.OrderModule
 {

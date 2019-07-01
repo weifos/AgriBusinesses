@@ -3,8 +3,8 @@ using System;
 using System.Collections.Generic;
 using Solution.Entity.ProductModule;
 using Solution.Entity.SKUModule;
-using Solution.Entity.Common;
-using Solution.Service.Common;
+using Solution.Entity.Enums;
+using Solution.Service;
 
 namespace Solution.Service.SKUModule
 {

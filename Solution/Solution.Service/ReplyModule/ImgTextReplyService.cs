@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using WeiFos.Core;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.BizTypeModule;
 using Solution.Entity.ReplyModule;
 using WeiFos.ORM.Data;
@@ -11,7 +11,7 @@ using WeiFos.Core.XmlHelper;
 using Solution.Entity.SystemModule;
 using WeiFos.WeChat.WXBase;
 using WeiFos.WeChat.WXRequest;
-using Solution.Service.Common;
+using Solution.Service;
 using WeiFos.WeChat.WXResponse;
 using Solution.Entity.WeChatModule;
 

@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Solution.Entity.SKUModule;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using WeiFos.ORM.Data.Restrictions;
 using WeiFos.ORM.Data.Const;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.SKUModule
 {

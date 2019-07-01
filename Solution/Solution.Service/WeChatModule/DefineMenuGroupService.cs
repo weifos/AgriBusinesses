@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Solution.Entity.BizTypeModule;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.ReplyModule;
 using Solution.Entity.ResourceModule;
 using Solution.Entity.WeChatModule;
-using Solution.Service.Common;
+using Solution.Service;
 using WeiFos.ORM.Data;
 
 namespace Solution.Service.WeChatModule

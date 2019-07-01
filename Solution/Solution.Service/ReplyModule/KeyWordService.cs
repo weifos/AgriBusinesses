@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using WeiFos.Core;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.ReplyModule;
 using WeiFos.ORM.Data;
-using Solution.Service.Common;
+using Solution.Service;
 
 
 namespace Solution.Service.ReplyModule

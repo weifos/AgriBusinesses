@@ -13,16 +13,40 @@ namespace Solution.Entity.BizTypeModule
     /// </summary>
     public class BannerType
     {
-         
+
         /// <summary>
-        /// 微信或APP轮播广告图
+        /// 移动端轮播广告图
         /// </summary>
         public const int AppBanner = 200;
+
+        /// <summary>
+        /// 移动端首页底部栏目1
+        /// </summary>
+        public const int AppIndexColumn1 = 201;
+
+        /// <summary>
+        /// 移动端首页栏目Banner
+        /// </summary>
+        public const int AppIndexColumn2 = 202;
+
+        /// <summary>
+        /// 移动端首页栏目Banner
+        /// </summary>
+        public const int AppIndexColumn3 = 203;
+
+        /// <summary>
+        /// 移动端首页底部栏目Banner
+        /// </summary>
+        public const int AppIndexBotton1 = 211;
 
 
         public static Dictionary<int, string> BannerList = new Dictionary<int, string>()
         {
-            {BannerType.AppBanner,"微信或APP—轮播广告图"}
+            {BannerType.AppBanner,"移动端—轮播广告图"},
+            {BannerType.AppIndexColumn1,"移动端—首页栏目1"},
+            {BannerType.AppIndexColumn2,"移动端—首页栏目2"},
+            {BannerType.AppIndexColumn3,"移动端—首页栏目3"},
+            {BannerType.AppIndexBotton1,"移动端—首页底部栏目"}
         };
 
 
@@ -37,6 +61,7 @@ namespace Solution.Entity.BizTypeModule
             }
             return "暂无";
         }
+
 
 
 

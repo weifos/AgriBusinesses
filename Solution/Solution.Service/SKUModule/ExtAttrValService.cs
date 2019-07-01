@@ -1,9 +1,9 @@
 ﻿using WeiFos.ORM.Data;
 using System;
 using System.Collections.Generic;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.SKUModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.SKUModule
 {

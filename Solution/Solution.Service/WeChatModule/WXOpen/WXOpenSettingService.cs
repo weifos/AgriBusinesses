@@ -1,5 +1,5 @@
 ﻿using Solution.Entity.WeChatModule.WXOpen;
-using Solution.Service.Common;
+using Solution.Service;
 using System.Collections.Generic;
 using WeiFos.ORM.Data;
 

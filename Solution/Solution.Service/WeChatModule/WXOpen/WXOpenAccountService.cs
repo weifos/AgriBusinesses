@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using WeiFos.ORM.Data;
 using WeiFos.WeChat.Helper;
 using WeiFos.WeChat.WXBase.WXOpen;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.WeChatModule.WXOpen
 {

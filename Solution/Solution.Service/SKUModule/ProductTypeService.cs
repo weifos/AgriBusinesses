@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using Solution.Entity.ProductModule;
 using Solution.Entity.SKUModule;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Newtonsoft.Json;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.SKUModule
 {

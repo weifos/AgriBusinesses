@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Solution.Entity.Common;
+using Solution.Entity.Enums;
 
 namespace Solution.Entity.SystemModule
 {

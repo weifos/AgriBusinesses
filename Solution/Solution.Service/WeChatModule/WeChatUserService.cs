@@ -10,10 +10,10 @@ using System.Text;
 using WeiFos.Core;
 using WeiFos.ORM.Data.Restrictions;
 using WeiFos.ORM.Data.Const;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.WeChat;
 using WeiFos.Core.Extensions;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.WeChatModule
 {

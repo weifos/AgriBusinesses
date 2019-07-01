@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.WeChatModule;
 using WeiFos.ORM.Data;
 using Solution.Service;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.WeChatModule
 {

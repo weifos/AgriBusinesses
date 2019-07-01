@@ -8,8 +8,8 @@ using WeiFos.ORM.Data;
 using Solution.Entity.DistributionModule;
 using Solution.Entity.ProductModule;
 using Solution.Entity.OrderModule;
-using Solution.Service.Common;
-using Solution.Entity.Common;
+using Solution.Service;
+using Solution.Entity.Enums;
 
 namespace Solution.Service.DistributionModule
 {

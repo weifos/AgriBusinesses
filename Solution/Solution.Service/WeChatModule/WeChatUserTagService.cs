@@ -1,8 +1,8 @@
 ﻿using Solution.Entity.WeChatModule;
 using WeiFos.ORM.Data;
 using System;
-using Solution.Entity.Common;
-using Solution.Service.Common;
+using Solution.Entity.Enums;
+using Solution.Service;
 
 namespace Solution.Service.WeChatModule
 {

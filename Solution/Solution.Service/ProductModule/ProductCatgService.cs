@@ -7,11 +7,11 @@ using System.Text.RegularExpressions;
 using Solution.Entity.ProductModule;
 using Solution.Entity.SystemModule;
 using Solution.Entity.BizTypeModule;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.ResourceModule;
 using WeiFos.ORM.Data.Restrictions;
 using WeiFos.ORM.Data.Const;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.ProductModule
 {

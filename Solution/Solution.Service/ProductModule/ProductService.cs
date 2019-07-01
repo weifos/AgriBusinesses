@@ -6,12 +6,12 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using Solution.Entity.ProductModule;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.BizTypeModule;
 using Newtonsoft.Json;
 using Solution.Entity.ResourceModule;
 using Solution.Entity.SKUModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.ProductModule
 {

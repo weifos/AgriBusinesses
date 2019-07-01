@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using Solution.Entity.WeChatModule;
-using Solution.Service.Common;
+using Solution.Service;
 using WeiFos.ORM.Data;
 
 

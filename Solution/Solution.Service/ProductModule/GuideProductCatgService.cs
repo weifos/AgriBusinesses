@@ -4,13 +4,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Solution.Entity.Common; 
+using Solution.Entity.Enums; 
 using Solution.Entity.ProductModule;
 using Solution.Entity.ResourceModule;
 using WeiFos.ORM.Data.Restrictions;
 using WeiFos.ORM.Data.Const;
 using System.Text.RegularExpressions;
-using Solution.Service.Common;
+using Solution.Service;
 using Solution.Entity.BizTypeModule;
 
 namespace Solution.Service.ProductModule

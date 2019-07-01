@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Solution.Entity.ProductModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.ProductModule
 {

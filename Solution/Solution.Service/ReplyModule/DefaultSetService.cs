@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WeiFos.ORM.Data;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.ReplyModule;
 using Solution.Entity.WeChatModule;
-using Solution.Service.Common;
+using Solution.Service;
 using WeiFos.WeChat.WXRequest;
 
 namespace Solution.Service.ReplyModule

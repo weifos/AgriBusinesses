@@ -1,12 +1,12 @@
-\\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\obj\Debug\netcoreapp2.1\Solution.Entity.csproj.CoreCompileInputs.cache
-\\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\obj\Debug\netcoreapp2.1\Solution.Entity.AssemblyInfoInputs.cache
-\\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\obj\Debug\netcoreapp2.1\Solution.Entity.AssemblyInfo.cs
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\bin\Debug\netcoreapp2.1\Solution.Entity.deps.json
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\bin\Debug\netcoreapp2.1\Solution.Entity.dll
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\bin\Debug\netcoreapp2.1\Solution.Entity.pdb
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\bin\Debug\netcoreapp2.1\WeiFos.Core.dll
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\bin\Debug\netcoreapp2.1\WeiFos.ORM.dll
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\bin\Debug\netcoreapp2.1\WeiFos.WeChat.dll
+\\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\obj\Debug\netcoreapp2.1\Solution.Entity.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\obj\Debug\netcoreapp2.1\Solution.Entity.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\obj\Debug\netcoreapp2.1\Solution.Entity.AssemblyInfo.cs
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\obj\Debug\netcoreapp2.1\Solution.Entity.csproj.CopyComplete
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\obj\Debug\netcoreapp2.1\Solution.Entity.dll
 \\Mac\Home\Documents\Projects.Zone\PModule01\AgriBusinesses\Solution\Project\Solution.Entity\obj\Debug\netcoreapp2.1\Solution.Entity.pdb

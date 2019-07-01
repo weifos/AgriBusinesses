@@ -1,6 +1,6 @@
 ﻿using WeiFos.ORM.Data;
 using Solution.Entity.ProductModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.ProductModule
 {

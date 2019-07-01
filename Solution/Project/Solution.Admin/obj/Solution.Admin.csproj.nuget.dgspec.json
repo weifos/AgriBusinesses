@@ -30,7 +30,14 @@
         },
         "frameworks": {
           "netcoreapp2.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Project\\Solution.Entity\\Solution.Entity.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Project\\Solution.Entity\\Solution.Entity.csproj"
+              },
+              "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Solution.Service\\Solution.Service.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Solution.Service\\Solution.Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -66,6 +73,132 @@
             "Unity": {
               "target": "Package",
               "version": "[5.10.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Project\\Solution.Entity\\Solution.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Project\\Solution.Entity\\Solution.Entity.csproj",
+        "projectName": "Solution.Entity",
+        "projectPath": "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Project\\Solution.Entity\\Solution.Entity.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Project\\Solution.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cnblogs.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Solution.Service\\Solution.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Solution.Service\\Solution.Service.csproj",
+        "projectName": "Solution.Service",
+        "projectPath": "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Solution.Service\\Solution.Service.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Solution.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.cnblogs.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Project\\Solution.Entity\\Solution.Entity.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\Projects.Zone\\PModule01\\AgriBusinesses\\Solution\\Project\\Solution.Entity\\Solution.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.10.0, )"
+            },
+            "aliyun-net-sdk-core": {
+              "target": "Package",
+              "version": "[1.3.5, )"
             }
           },
           "imports": [

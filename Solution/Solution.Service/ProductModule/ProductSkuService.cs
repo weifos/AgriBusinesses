@@ -5,7 +5,7 @@ using System.Text;
 using Solution.Entity.ProductModule;
 using WeiFos.Core;
 using Solution.Entity.SKUModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.ProductModule
 {

@@ -6,7 +6,7 @@ using WeiFos.ORM.Data;
 using Solution.Service;
 using WeiFos.WeChat.WXBase;
 using WeiFos.WeChat.WXRequest;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.WeChatModule
 {

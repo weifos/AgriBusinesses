@@ -1,8 +1,8 @@
 ﻿using Solution.Entity.LogsModule;
 using System;
-using Solution.Entity.Common; 
+using Solution.Entity.Enums; 
 using WeiFos.ORM.Data;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.LogsModule
 {

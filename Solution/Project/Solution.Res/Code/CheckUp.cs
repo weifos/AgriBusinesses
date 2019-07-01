@@ -13,7 +13,7 @@ namespace Solution.Res.Code
 {
     /// <summary>
     /// 上传票据校验
-    /// @author yewei 
+    /// @author yewei
     /// @date 2016-04-21
     /// </summary>
     public class CheckUp : ActionFilterAttribute

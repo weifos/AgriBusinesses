@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.SystemModule;
 using WeiFos.Core;
 using WeiFos.ORM.Data;
@@ -11,7 +11,7 @@ using Solution.Entity.OrderModule;
 using WeiFos.WeChat.Models;
 using WeiFos.WeChat.Helper;
 using WeiFos.WeChat.MessageModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.MessageModule
 {

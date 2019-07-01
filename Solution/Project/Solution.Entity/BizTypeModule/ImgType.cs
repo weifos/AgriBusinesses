@@ -62,12 +62,12 @@ namespace Solution.Entity.BizTypeModule
         /// <summary>
         /// 资讯详情 图
         /// </summary>
-        public const string Informt_Details = "Informt_Details";
+        public const string InformtDetails = "InformtDetails";
 
         /// <summary>
         /// 资讯类别 图
         /// </summary>
-        public const string InformtCgty = "InformtCgty";
+        public const string InformtCatg = "InformtCatg";
 
         /// <summary>
         /// 合作伙伴 图
@@ -118,8 +118,8 @@ namespace Solution.Entity.BizTypeModule
             ImgType.ImgTextReply_Title,
             ImgType.ImgTextReply_Details,
             ImgType.Informt,
-            ImgType.Informt_Details,
-            ImgType.InformtCgty,
+            ImgType.InformtDetails,
+            ImgType.InformtCatg,
             ImgType.Partner,
             ImgType.Banner,
             ImgType.AppBanner, 

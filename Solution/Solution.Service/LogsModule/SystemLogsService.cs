@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Solution.Entity.Common; 
+using Solution.Entity.Enums; 
 using Solution.Entity.LogsModule;
-using Solution.Service.Common;
+using Solution.Service;
 using WeiFos.ORM.Data;
 
 

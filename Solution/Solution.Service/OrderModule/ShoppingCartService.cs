@@ -8,9 +8,9 @@ using WeiFos.Core;
 using Solution.Entity.SKUModule;
 using Solution.Entity.OrderModule;
 using Solution.Entity.LogsModule;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.ResourceModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.OrderModule
 {

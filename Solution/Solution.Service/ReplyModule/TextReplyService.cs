@@ -3,14 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using WeiFos.Core.XmlHelper;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.ReplyModule;
 using Solution.Entity.SystemModule;
 using Solution.Entity.WeChatModule;
 using WeiFos.ORM.Data;
 using WeiFos.WeChat.WXBase;
 using WeiFos.WeChat.WXRequest;
-using Solution.Service.Common;
+using Solution.Service;
 using WeiFos.WeChat.WXResponse;
 
 namespace Solution.Service.ReplyModule

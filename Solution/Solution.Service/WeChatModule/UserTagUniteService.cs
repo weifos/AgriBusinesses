@@ -1,6 +1,6 @@
-﻿using Solution.Entity.Common;
+﻿using Solution.Entity.Enums;
 using Solution.Entity.WeChatModule;
-using Solution.Service.Common;
+using Solution.Service;
 using WeiFos.ORM.Data;
 
 

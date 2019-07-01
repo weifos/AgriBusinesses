@@ -9,10 +9,34 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="IdentityModel" Version="3.10.10" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.IdentityModel.Clients.ActiveDirectory" Version="5.0.5" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="5.4.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.4.0" />
     <PackageReference Include="Unity" Version="5.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Solution.Service\Solution.Service.csproj" />
+    <ProjectReference Include="..\Solution.Entity\Solution.Entity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WeiFos.Core">
+      <HintPath>..\..\package\WeiFos.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="WeiFos.ORM">
+      <HintPath>..\..\package\WeiFos.ORM.dll</HintPath>
+    </Reference>
+    <Reference Include="WeiFos.SDK">
+      <HintPath>..\..\package\WeiFos.SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="WeiFos.WeChat">
+      <HintPath>..\..\package\WeiFos.WeChat.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

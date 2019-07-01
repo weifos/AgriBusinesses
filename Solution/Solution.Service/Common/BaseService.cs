@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Linq.Expressions;
 using Solution.Entity;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 
-namespace Solution.Service.Common
+namespace Solution.Service
 {
     /// <summary>
     /// Service 基类

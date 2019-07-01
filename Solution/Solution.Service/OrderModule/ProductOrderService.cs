@@ -5,7 +5,7 @@ using System.Text;
 using WeiFos.ORM.Data;
 using WeiFos.Core;
 using Newtonsoft.Json;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.ProductModule;
 using Solution.Entity.BizTypeModule;
 using Solution.Entity.SKUModule;
@@ -15,7 +15,7 @@ using WeiFos.ORM.Data.Const;
 using Solution.Entity.LogsModule;
 using Solution.Entity.UserModule; 
 using System.Data;
-using Solution.Service.Common;
+using Solution.Service;
 using Solution.Service.DistributionModule;
 
 namespace Solution.Service.OrderModule

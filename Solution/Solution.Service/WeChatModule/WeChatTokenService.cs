@@ -1,6 +1,6 @@
 ﻿using System;
 using Solution.Entity.WeChatModule;
-using Solution.Service.Common;
+using Solution.Service;
 using WeiFos.ORM.Data;
 using WeiFos.WeChat.Helper;
 using WeiFos.WeChat.TickeModule;

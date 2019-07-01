@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 using WeiFos.ORM.Data;
 using Solution.Entity.DistributionModule;
 using Solution.Service;
-using Solution.Service.Common;
-using Solution.Entity.Common;
+using Solution.Service;
+using Solution.Entity.Enums;
 
 namespace Solution.Service.DistributionModule
 {

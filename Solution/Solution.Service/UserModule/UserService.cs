@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using WeiFos.Core;
 using Solution.Entity.BizTypeModule;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.LogsModule;
 using Solution.Entity.SystemModule;
 using Solution.Entity.UserModule;
 using Solution.Entity.WeChatModule;
 using WeiFos.ORM.Data;
 using WeiFos.SDK.Model;
-using Solution.Service.Common;
+using Solution.Service;
 using Solution.Entity.Enums;
 
 namespace Solution.Service.UserModule

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WeiFos.ORM.Data;
 using Solution.Entity.DistributionModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.DistributionModule
 {

@@ -5,10 +5,43 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Views\Home\About.cshtml" />
+    <None Include="Views\Home\Contact.cshtml" />
+    <None Include="Views\Home\Index.cshtml" />
+    <None Include="Views\Home\Privacy.cshtml" />
+    <None Include="Views\Shared\Error.cshtml" />
+    <None Include="Views\Shared\_CookieConsentPartial.cshtml" />
+    <None Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Views\Shared\_ValidationScriptsPartial.cshtml" />
+    <None Include="Views\_ViewImports.cshtml" />
+    <None Include="Views\_ViewStart.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
     <PackageReference Include="Unity" Version="5.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Solution.Service\Solution.Service.csproj" />
+    <ProjectReference Include="..\Solution.Entity\Solution.Entity.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WeiFos.Cache">
+      <HintPath>..\..\package\WeiFos.Cache.dll</HintPath>
+    </Reference>
+    <Reference Include="WeiFos.Core">
+      <HintPath>..\..\package\WeiFos.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="WeiFos.ORM">
+      <HintPath>..\..\package\WeiFos.ORM.dll</HintPath>
+    </Reference>
+    <Reference Include="WeiFos.WeChat">
+      <HintPath>..\..\package\WeiFos.WeChat.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

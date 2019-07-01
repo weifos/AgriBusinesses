@@ -9,9 +9,9 @@ using Solution.Entity.ProductModule;
 using Solution.Entity.BizTypeModule;
 using WeiFos.Core;
 using Solution.Entity.ResourceModule;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.SystemModule;
-using Solution.Service.Common;
+using Solution.Service;
 
 namespace Solution.Service.ProductModule
 {

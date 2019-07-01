@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Solution.Entity.Common;
+using Solution.Entity.Enums;
 using Solution.Entity.LogsModule;
 using Solution.Entity.UserModule;
-using Solution.Service.Common;
+using Solution.Service;
 using WeiFos.ORM.Data;
 using WeiFos.ORM.Data.Attributes;
 
